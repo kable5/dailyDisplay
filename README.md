@@ -20,5 +20,6 @@ $ pip3 install -e
 ### TODO
 - [ ] Display icon for weather conditions
 - [ ] Display Calendar and Tasks through Google API
+- [ ] C++ branch (may not be necessary but good for experience)
 - [ ] Improve graphical design
 - [ ] More wholistic and in-depth testing and error handling

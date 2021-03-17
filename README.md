@@ -5,7 +5,7 @@ This project uses OpenWeather API. Please visit https://openweathermap.org/api a
 
 ### Installation
 This project was designed for:
-* Start a line with a star
+* Raspberry Pi 3 Model B
 * Raspberry Pi OS
 * Python 3.8.5
 
